@@ -1,0 +1,1 @@
+Ruby script for those who love to read mangas
